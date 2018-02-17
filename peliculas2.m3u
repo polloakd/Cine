@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3URR
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema
 http://149.56.23.7:20082/stream
@@ -27,7 +27,7 @@ https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%2000
 #EXTINF:-1 tvg-logo="https://blogs-images.forbes.com/scottmendelson/files/2017/06/ANNABELLE_CREATION_POSTER-1200x1778.jpg" group-title="MOVIES",Annabelle - Creation (2017) [ES-Subs]
 http://www.cinevall.com/videos/annabelle_2.m4v
 
-#EXTINF:-1 tvg-logo="http://horrorbuzz.com/wp-content/uploads/2017/05/AwakeningTheZodiac_Poster.jpg" group-title="MOVIES",Awakening the Zodiac (2017) [AR-Subs]
+#EXTINF:-1 tvg-logo="http://horrorbuzz.com/wp-content/uploads/2017/05/AwakeningTheZodiac_Poster.jpg" group-title="MOVIES",Awakening the Zodiac (2017)
 https://archive.org/download/AwakeningTheZodiac2017/Awakening%20the%20Zodiac%202017.mp4
 
 #EXTINF:-1 tvg-logo="http://legionofleia.com/wp-content/uploads/screen-shot-2017-04-19-at-9-32-34-am-copy.jpg" group-title="MOVIES",Baywatch (2017)
